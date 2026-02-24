@@ -1,0 +1,101 @@
+Rank,Song_Title,Artist,Genre,Release_Date,Spotify_Streams_Millions,Popularity_Score,Duration_Seconds,Explicit
+1,Song 1,Taylor Swift,Latin,2023-11-12,1686.11,79,282,No
+2,Song 2,Travis Scott,Pop,2024-10-20,654.74,87,144,Yes
+3,Song 3,Ed Sheeran,Afrobeats,2023-04-23,1739.75,99,200,Yes
+4,Song 4,Doja Cat,Afrobeats,2023-05-21,924.5,66,282,Yes
+5,Song 5,Imagine Dragons,Electronic,2023-03-29,833.8,72,293,Yes
+6,Song 6,Justin Bieber,Hip-Hop,2023-03-10,266.11,96,137,Yes
+7,Song 7,Rihanna,R&B,2024-10-22,277.56,97,176,No
+8,Song 8,Justin Bieber,Indie,2023-05-09,1477.73,99,249,No
+9,Song 9,Drake,K-Pop,2023-09-07,616.7,63,224,No
+10,Song 10,Justin Bieber,Pop,2023-02-28,938.7,74,229,No
+11,Song 11,Bad Bunny,Hip-Hop,2024-09-28,302.83,71,282,Yes
+12,Song 12,Bad Bunny,Electronic,2024-04-22,497.69,100,266,No
+13,Song 13,Olivia Rodrigo,Electronic,2023-11-20,966.21,89,239,No
+14,Song 14,Post Malone,Electronic,2023-08-31,978.68,67,187,No
+15,Song 15,Taylor Swift,Latin,2024-01-12,1094.13,71,279,No
+16,Song 16,Billie Eilish,Rock,2023-06-24,1125.11,62,135,Yes
+17,Song 17,Travis Scott,R&B,2024-10-30,1160.69,65,145,No
+18,Song 18,Bad Bunny,Afrobeats,2023-03-31,757.02,77,143,Yes
+19,Song 19,Ed Sheeran,Afrobeats,2023-05-05,1314.77,100,163,Yes
+20,Song 20,Bruno Mars,Pop,2024-09-17,688.66,70,248,Yes
+21,Song 21,The Weeknd,Hip-Hop,2024-03-07,1289.99,78,127,No
+22,Song 22,Olivia Rodrigo,Electronic,2023-03-30,618.6,77,134,Yes
+23,Song 23,SZA,Pop,2024-02-24,1001.25,60,193,Yes
+24,Song 24,Bad Bunny,Electronic,2023-03-27,1768.29,63,180,No
+25,Song 25,Doja Cat,Afrobeats,2023-08-30,231.54,88,200,No
+26,Song 26,Doja Cat,Indie,2024-06-27,265.7,63,286,Yes
+27,Song 27,Imagine Dragons,Indie,2024-07-22,1009.7,68,155,Yes
+28,Song 28,BTS,Rock,2023-02-27,1639.67,62,139,No
+29,Song 29,Billie Eilish,Afrobeats,2024-08-15,1495.26,62,149,No
+30,Song 30,The Weeknd,Hip-Hop,2024-10-04,480.33,64,243,Yes
+31,Song 31,Bruno Mars,Rock,2023-10-25,1379.83,70,218,No
+32,Song 32,Billie Eilish,Pop,2023-05-09,1776.59,79,248,Yes
+33,Song 33,The Weeknd,Afrobeats,2024-06-06,777.78,88,136,Yes
+34,Song 34,Ariana Grande,R&B,2023-11-07,977.55,78,242,No
+35,Song 35,The Weeknd,K-Pop,2024-05-10,801.7,79,180,No
+36,Song 36,Ariana Grande,Indie,2024-06-04,1393.52,80,244,Yes
+37,Song 37,BTS,Rock,2024-05-02,852.81,88,212,Yes
+38,Song 38,Doja Cat,K-Pop,2024-05-06,1353.88,92,125,Yes
+39,Song 39,Rihanna,Indie,2024-08-07,580.94,99,157,Yes
+40,Song 40,SZA,Indie,2023-12-01,574.1,80,128,Yes
+41,Song 41,Kanye West,K-Pop,2023-09-19,562.47,95,188,No
+42,Song 42,SZA,Pop,2024-11-24,261.13,73,138,Yes
+43,Song 43,Billie Eilish,Pop,2024-11-27,949.72,97,151,Yes
+44,Song 44,Coldplay,Rock,2023-02-15,1764.7,93,222,No
+45,Song 45,SZA,Afrobeats,2023-05-03,367.83,98,267,Yes
+46,Song 46,Bruno Mars,Pop,2023-07-06,586.39,84,228,Yes
+47,Song 47,Doja Cat,R&B,2023-07-04,1639.41,67,241,No
+48,Song 48,Taylor Swift,Pop,2024-03-08,581.52,94,232,No
+49,Song 49,SZA,Afrobeats,2023-12-15,1613.2,92,145,Yes
+50,Song 50,Dua Lipa,Afrobeats,2024-06-13,671.48,93,128,Yes
+51,Song 51,Bad Bunny,Electronic,2024-02-06,1108.23,93,190,No
+52,Song 52,Kanye West,Hip-Hop,2023-09-19,1239.4,94,260,Yes
+53,Song 53,Taylor Swift,R&B,2023-12-07,1603.6,99,126,Yes
+54,Song 54,Olivia Rodrigo,Hip-Hop,2023-12-09,809.42,82,273,No
+55,Song 55,Billie Eilish,Hip-Hop,2024-11-09,211.96,87,245,Yes
+56,Song 56,Bad Bunny,Pop,2023-05-04,1053.25,96,126,No
+57,Song 57,Olivia Rodrigo,Latin,2023-11-19,1791.49,62,176,Yes
+58,Song 58,SZA,Afrobeats,2023-09-07,1595.19,90,252,Yes
+59,Song 59,Kanye West,Indie,2023-12-18,1099.71,88,204,No
+60,Song 60,Dua Lipa,Indie,2024-02-21,1248.03,81,163,No
+61,Song 61,Bruno Mars,Indie,2024-10-13,1604.35,81,275,Yes
+62,Song 62,The Weeknd,Hip-Hop,2024-09-15,1517.33,99,240,No
+63,Song 63,Kanye West,Hip-Hop,2024-09-03,946.23,99,213,No
+64,Song 64,BTS,Latin,2024-05-29,372.17,70,258,Yes
+65,Song 65,BTS,Latin,2023-09-20,494.34,96,139,No
+66,Song 66,BTS,Indie,2024-08-08,1514.03,90,281,No
+67,Song 67,Imagine Dragons,Pop,2023-05-01,1205.22,78,235,Yes
+68,Song 68,Taylor Swift,Hip-Hop,2024-03-23,1306.82,63,220,Yes
+69,Song 69,Billie Eilish,Indie,2024-07-06,834.89,80,254,No
+70,Song 70,Bruno Mars,Latin,2024-07-07,325.88,72,179,No
+71,Song 71,Bad Bunny,Hip-Hop,2023-12-30,1777.04,72,284,No
+72,Song 72,Coldplay,K-Pop,2024-09-24,1355.43,69,149,Yes
+73,Song 73,Imagine Dragons,Electronic,2023-12-06,1068.46,64,216,Yes
+74,Song 74,Justin Bieber,Indie,2023-09-01,1756.35,71,258,Yes
+75,Song 75,Ed Sheeran,Electronic,2023-05-17,684.48,85,142,Yes
+76,Song 76,Kanye West,Electronic,2024-05-29,1648.53,75,160,No
+77,Song 77,Doja Cat,K-Pop,2023-06-12,1513.24,62,170,Yes
+78,Song 78,Doja Cat,R&B,2024-11-13,1340.8,62,150,Yes
+79,Song 79,Drake,Pop,2024-08-08,1015.7,79,288,No
+80,Song 80,Taylor Swift,Rock,2024-06-18,221.93,98,181,No
+81,Song 81,Bad Bunny,Electronic,2023-10-06,759.23,71,296,No
+82,Song 82,Bruno Mars,Hip-Hop,2023-09-15,1474.57,79,181,Yes
+83,Song 83,Doja Cat,K-Pop,2023-11-21,1158.72,94,296,Yes
+84,Song 84,Rihanna,Indie,2023-10-14,851.44,84,128,Yes
+85,Song 85,Ed Sheeran,Hip-Hop,2024-10-10,1211.0,80,205,Yes
+86,Song 86,Rihanna,Hip-Hop,2024-05-30,1453.5,94,148,Yes
+87,Song 87,SZA,K-Pop,2024-03-22,1261.93,78,207,No
+88,Song 88,Taylor Swift,Hip-Hop,2024-09-13,1011.72,80,166,Yes
+89,Song 89,Olivia Rodrigo,Pop,2023-03-06,975.67,77,190,No
+90,Song 90,Imagine Dragons,Rock,2024-05-17,311.35,76,148,No
+91,Song 91,Kanye West,Electronic,2024-04-13,265.47,62,204,No
+92,Song 92,The Weeknd,Indie,2023-09-05,172.8,61,223,No
+93,Song 93,The Weeknd,Electronic,2024-01-17,1262.27,98,169,Yes
+94,Song 94,Post Malone,R&B,2023-12-04,1018.8,81,204,Yes
+95,Song 95,Dua Lipa,Afrobeats,2024-05-07,665.78,68,124,Yes
+96,Song 96,Ed Sheeran,Electronic,2023-08-27,984.96,80,120,No
+97,Song 97,Post Malone,Indie,2024-06-28,768.59,61,140,Yes
+98,Song 98,Dua Lipa,Hip-Hop,2023-06-14,1409.08,98,258,No
+99,Song 99,Travis Scott,Rock,2024-01-09,976.79,83,265,No
+100,Song 100,Doja Cat,Afrobeats,2024-06-24,1596.93,94,230,Yes
